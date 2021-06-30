@@ -1,0 +1,25 @@
+.app {
+  height: 100vh;
+  width : 100vw;
+  background-color:#0075b8;
+  display: grid;
+  place-items: left;
+}
+.container{
+  height: 600px;
+  width:500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #77b9df;
+  border-radius: 10px;
+  padding: 32px 0;
+  
+}
+.list_container{
+  
+  width:70%;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+}

@@ -1,0 +1,15 @@
+.item{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    background-color: white;
+    margin: 6px 4px;
+    height: 40px;
+    border-radius: 10px;
+   
+
+}
+ .item--done {
+     text-decoration: line-through; 
+} 
+/*if flag is active add text decotationof line through */
